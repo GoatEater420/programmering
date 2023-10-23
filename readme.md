@@ -1,5 +1,8 @@
 logbok
 
+vecka 42
+övat på listor
+
 vecka 41
 övade på 
 
