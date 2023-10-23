@@ -1,7 +1,12 @@
 logbok
+#####
+
+vecka 43
+övat på listor
 
 vecka 42
 övat på listor
+
 
 vecka 41
 övade på 
@@ -9,5 +14,6 @@ vecka 41
 vecka 40
 https://www.youtube.com/watch?v=HZARImviDxg&ab_channel=Telusko
 
-vecka 39
+vecka
+ 39
 utbildning
